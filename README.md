@@ -8,7 +8,7 @@ Place the class.diePretty.php file in your includes directory.
 
 To enable animations, add in the animate.css script from https://github.com/daneden/animate.css in a web accessible location.
 You may need to change the class.diePretty.php script to correctly refer to your animate css. Look for the following line and modify accordingly:
-* print '<link rel="stylesheet" href="css/animate.css" />';
+* print '&lt;link rel=&quot;stylesheet&quot; href=&quot;css/animate.css&quot; /&gt;';
 
 
 
